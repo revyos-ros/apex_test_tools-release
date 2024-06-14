@@ -1,3 +1,28 @@
+## apex_test_tools (jazzy) - 0.0.2-10
+
+The packages in the `apex_test_tools` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy apex_test_tools --override-release-repository-push-url git@github.com:revyos-ros/apex_test_tools-release.git` on `Fri, 14 Jun 2024 03:45:36 -0000`
+
+These packages were released:
+- `apex_test_tools`
+- `test_apex_test_tools`
+
+Version of package(s) in repository `apex_test_tools`:
+
+- upstream repository: https://gitlab.com/ApexAI/apex_test_tools.git
+- release repository: https://github.com/revyos-ros/apex_test_tools-release.git
+- rosdistro version: `0.0.2-9`
+- old version: `0.0.2-9`
+- new version: `0.0.2-10`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## apex_test_tools (rolling) - 0.0.2-4
 
 The packages in the `apex_test_tools` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --ros-distro rolling --track rolling apex_test_tools` on `Tue, 06 Apr 2021 15:40:08 -0000`
